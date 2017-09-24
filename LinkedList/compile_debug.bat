@@ -1,0 +1,1 @@
+clang++ -g -std=c++14 -Werror -Weverything -Wno-c++98-compat -Wno-c++98-compat-pedantic -fms-compatibility-version=19.00 -o main.exe main.cpp
